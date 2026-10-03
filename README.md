@@ -82,6 +82,14 @@ common structure including:
 Some employer websites do not expose salary or posted-date information
 consistently. In those cases, the corresponding field may be unavailable.
 
+## Demo
+
+A short video walkthrough demonstrating the Jobly application, including
+job search, filtering, Student Friendly jobs, saved jobs, sorting, and
+original employer listings.
+
+**[Watch the Jobly Demo](https://drive.google.com/file/d/1H4bnwQcnQJeMtD-5Lp5fzjCtR5cwWwDC/view?usp=sharing)**
+
 ## Architecture
 
 ```text
