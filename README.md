@@ -35,7 +35,7 @@ The application does not depend on a third-party job API.
 
 ## Current Dataset
 
-The current scraped dataset contains 95 job listings.
+The current scraped dataset contains **95 job listings**.
 
 | Source | Jobs |
 |---|---:|
